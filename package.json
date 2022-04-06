@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test description",
+  "info": "test info",
+  "private": true,
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "a",
+      "email": "a@a.a"
+    }
+  ],
+  "keywords": [ "best_app", "solidhack" ],
+  "homepage": "asd"
+}
